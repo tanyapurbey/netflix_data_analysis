@@ -9,7 +9,7 @@ find hidden patterns.
 * contains two csv files named titles and credits which contains information on shows and movies from 1945 to 2021
 * Titles, release year ,rating ,production countries, genres ,description, runtime , characters ,cast , imDB rating and votes etc.
 
-### KEY TAKEAWAWYS
+### Key Takeaways
 - Improved my data wrangling skills
 - Gained confidence in using ***Pandas** for real world analysis.
 - Turned raw info into real insights
